@@ -18,12 +18,7 @@ Mac版12306 订票/捡票 助手。
 1. OS X 10.13/Xcode 9.0/Swift 3.2
 2. $ git clone --recursive https://github.com/fancymax/12306ForMac.git 
 3. $ carthage update --platform macOS
-
-# 捐赠
-如果你愿意支持这个项目，可以考虑进行捐赠
-
-![demo](screenshot/donate.png)
-
+ 
 
 # 感谢
 
